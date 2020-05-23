@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Anaclean": {
+      "commandName": "Project"
+    },
+    "AnacleanTest": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\NinjaGreen\\source\\repos\\Anaclean\\Anaclean\\bin\\Debug\\netcoreapp3.1\\25.txt"
+    }
+  }
+}
